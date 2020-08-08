@@ -1,0 +1,9 @@
+canvas
+{
+	border: 1px solid black;
+	width: 80%;
+    background-color: rgb(78, 69, 83);
+    background-image: url(https://vignette.wikia.nocookie.net/disneyplanes/images/5/50/Wiki-background/revision/latest/scale-to-width-down/640?cb=20130623162153);
+    background-size:cover;
+	
+}
